@@ -1,0 +1,19 @@
+1. Contar el número de letras minúsculas existentes en cada una de las cadenas ingresadas por el usuario 
+
+2. Ingresar varias cadenas de caracteres, y determinar las letras que contienen (en la respuesta no deberán aparecer letras repetidas) 
+
+3. Ingresar varias frases y determinar cuáles son las palabras comunes a todas ellas 
+
+4. Ingresar una frase que termine con la palabra FIN, y transformar a plural cada palabra que en ella exista. 
+
+5. Ingresar una frase y determinar los palíndromos (palabras que se leen igual de izquierda a derecha y de derecha a izquierda) que en ella existen 
+
+6. Permitir el ingreso de varias frases y determinar aquella que posee la mayor cantidad de letras mayúsculas y de caracteres especiales. 
+
+7. Permitir el ingreso de varias frases y determinar los caracteres que se repiten N o más veces en cada una. 
+
+8. Determinar la cantidad de letras que posee el nombre más extenso de una lista de nombres completos (dos nombres y dos apellidos) ingresados  
+
+9. Permitir el ingreso de una frase y determinar el tipo de orden que existe entre los caracteres de cada palabra. La frase concluye cuando el usuario ingresa dos caracteres punto contiguos.
+
+10. Ingresar varias frases y generar un listado de aquellas palabras que poseen letras mayúsculas como iniciales.
